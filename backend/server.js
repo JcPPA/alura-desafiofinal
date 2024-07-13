@@ -1,15 +1,14 @@
 const express = require('express');
+const path = require('path');
 const cors = require('cors');
 const fs = require('fs');
-const path = require('path');
 
 const app = express();
-const PORT = 5000;
+const PORT = process.env.PORT || 5000;
+const videosFilePath = path.join(__dirname, 'BdUpVideo.json');
 
 app.use(cors());
 app.use(express.json());
-
-const videosFilePath = path.join(__dirname, 'BdUpVideo.json');
 
 // Rota para obter os vídeos
 app.get('/videos', (req, res) => {
@@ -45,6 +44,12 @@ app.post('/videos', (req, res) => {
   });
 });
 
+// Servir arquivos estáticos e o index.html
+app.use(express.static(path.join(__dirname, 'public')));
+app.get('*', (req, res) => {
+  res.sendFile(path.join(__dirname, 'public', 'index.html'));
+});
+
 app.listen(PORT, () => {
-  console.log(`Servidor rodando na porta ${PORT}`);
+  console.log(`Servidor está executando na porta ${PORT}`);
 });
