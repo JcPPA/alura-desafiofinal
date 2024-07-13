@@ -3,7 +3,6 @@ import './MenuSearch.css';
 
 const MenuSearch = ({ placeholder }) => {
   const handleSearch = () => {
-    // Implementar a lógica de pesquisa aqui
     alert('Pesquisar por: ' + placeholder);
   };
 
