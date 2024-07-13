@@ -1,0 +1,55 @@
+.categoryBlock {
+  margin-bottom: 40px;
+}
+  
+.categoryBlock h3 {
+  font-size: 1.5rem;
+  color: #333;
+  margin-bottom: 20px;
+}
+  
+.cardRow {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+  
+.card {
+  background-color: #f0f0f0;
+  padding: 10px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  width: calc(33.333% - 20px);
+  box-sizing: border-box;
+  text-align: center;
+}
+  
+.card img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+  
+.card h4 {
+  font-size: 1.2rem;
+  color: #333;
+  margin-top: 10px;
+}
+  
+.card p {
+  font-size: 0.9rem;
+  color: #666;
+}
+  
+@media (max-width: 768px) {
+  .card {
+    width: calc(50% - 20px);
+  }
+}
+  
+@media (max-width: 480px) {
+  .card {
+    width: 100%;
+  }
+}
+  

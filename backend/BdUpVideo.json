@@ -1,0 +1,60 @@
+{
+  "videos": [
+    {
+      "id": 551919,
+      "title": "Curso React: Introdução - #01",
+      "videoUrl": "https://youtu.be/FXqX7oof0I4?si=VAGsSkQJ3YtbV2J2",
+      "category": "Front-End",
+      "description": "Neste vídeo você vai conhecer o projeto que vamos desenvolver no curso de #React e também aprender o que é e para que é utilizado o React, a biblioteca #JavaScript mais utilizada da atualidade.",
+      "thumbnailUrl": "https://img.youtube.com/vi/FXqX7oof0I4/0.jpg"
+    },
+    {
+      "id": 629397,
+      "title": "Curso React Completo Para Iniciantes 2024",
+      "videoUrl": "https://youtu.be/-GPQNQzeO7M?si=lrdP7HHnBOZwCrZI",
+      "category": "Front-End",
+      "description": "Neste vídeo, apresento os conceitos fundamentais do React, como componentes, estado e props. Este curso é introdutório e é perfeito para quem está começando a aprender React.",
+      "thumbnailUrl": "https://img.youtube.com/vi/-GPQNQzeO7M/0.jpg"
+    },
+    {
+      "id": 944236,
+      "title": "Calm Chopin",
+      "videoUrl": "https://youtu.be/QQE6-Z6YB8c?si=aBtybh9XqHxsnOKH",
+      "category": "SoftSkills",
+      "description": "Paz e tranquilidade também são habilidades importantes.",
+      "thumbnailUrl": "https://img.youtube.com/vi/QQE6-Z6YB8c/0.jpg"
+    },
+    {
+      "id": 265141,
+      "title": "SOFT SKILLS E HARD SKILLS (Qual a Diferença e Como Influenciam Você e o Seu Negócio?)",
+      "videoUrl": "https://youtu.be/eN34V1N7QiY?si=fl9tfMQU8wG0XMEh",
+      "category": "SoftSkills",
+      "description": "Soft Skills e Hard Skills. Por que esses termos são essenciais para construção de carreiras e de negócios de sucesso?",
+      "thumbnailUrl": "https://img.youtube.com/vi/eN34V1N7QiY/0.jpg"
+    },
+    {
+      "id": 339398,
+      "title": "O que é Data Science? #HipstersPontoTube",
+      "videoUrl": "https://youtu.be/5b9Z8toVaAU?si=oqhIlD48oSuJL0qu",
+      "category": "Data Science",
+      "description": "Python é o novo Excel? Para que serve o R, Pandas e Jupyter? E qual é, afinal, a diferença entre o Data Science, Business Intelligence e Machine Learning? Descubra no primeiro episódio de Hipsters Ponto Tube! ",
+      "thumbnailUrl": "https://img.youtube.com/vi/5b9Z8toVaAU/0.jpg"
+    },
+    {
+      "id": 25964,
+      "title": "CARREIRA EM CYBERSECURITY: dá para trabalhar como HACKER PROFISSIONAL?",
+      "videoUrl": "https://youtu.be/I9kXpuJa680?si=f6M4VpyQIZRmRxi8",
+      "category": "Cyber Security",
+      "description": "Neste episódio do Primotech, convidamos Gabriel Pato, o Hacker Ético para falar sobre o carreira no mercado de segurança da informação, qual o papel desse profissional e detalhes da vida de hacker do bem dentro das empresas.",
+      "thumbnailUrl": "https://img.youtube.com/vi/I9kXpuJa680/0.jpg"
+    },
+    {
+      "id": 621104,
+      "title": "Cybersecurity for Beginners: Basic Skills",
+      "videoUrl": "https://youtu.be/aRbKFCY4tjE?si=ZDNf9B093TxX1K7S",
+      "category": "Cyber Security",
+      "description": "Cybersecurity Skills everyone should have.",
+      "thumbnailUrl": "https://img.youtube.com/vi/aRbKFCY4tjE/0.jpg"
+    }
+  ]
+}

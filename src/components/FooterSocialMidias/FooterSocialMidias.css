@@ -1,0 +1,26 @@
+.socialMidias {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.socialMidias a {
+  display: inline-block;
+  margin: 0 25px;
+}
+
+.icon {
+  font-size: 40px;
+  color: #333;
+  transition: color 0.3s ease;
+}
+.icon:hover{
+  color: red;
+
+}
+a{
+  gap: 25px;
+  margin: 25px 10px;
+  width: 25px;
+  padding: 40px 5px;
+}
