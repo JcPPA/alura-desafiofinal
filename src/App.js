@@ -15,7 +15,8 @@ function App() {
           <title>StudyFlix</title>
           <meta name="description" content="Este app criado por React tem a função de criar links entre diferentes conteúdos almejados." />
           <link rel="canonical" href="https://www.studyflix.com/" />
-          <link rel="icon" href="%PUBLIC_URL%/logo.ico" />
+          <link rel="icon" href="/logo.ico" />
+          <link rel="apple-touch-icon" href="/logo512.png" />
 
 
         </Helmet>
