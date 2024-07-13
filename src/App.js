@@ -20,11 +20,13 @@ function App() {
 
 
         </Helmet>
+      <main>
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/upvideos" element={<UpVideos />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
+        </main>
       </div>
     </HelmetProvider>
   );

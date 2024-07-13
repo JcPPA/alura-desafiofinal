@@ -1,6 +1,19 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "prefer_related_applications": true,
+  "related_applications": [
+    {
+      "platform": "play",
+      "url": "https://play.google.com/store/apps/details?id=com.example.app",
+      "id": "com.example.app"
+    },
+    {
+      "platform": "itunes",
+      "url": "https://apps.apple.com/app/example-app/id123456789",
+      "id": "123456789"
+    }
+  ],
+  "short_name": "StudyFlix",
+  "name": "Study Flix 1.0",
   "icons": [
     {
       "src": "favicon.ico",

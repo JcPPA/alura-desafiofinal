@@ -6,9 +6,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Julio Cesar Oliveira Bellini",
   "license": "ISC",
-  "description": "",
+  "description": "Servidor para estabelecer conexão entre projeto REACT e as funções de BACKEND para registro em arquivos JSON.",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.19.2",

@@ -49,6 +49,6 @@
   "description": "O **Alura Flix** é o projeto final do curso de **Front-End** ministrado pela **Alura** em parceria com a **Oracle**. Este projeto visa consolidar todos os conhecimentos adquiridos ao longo do curso, integrando **HTML**, **CSS**, **JavaScript** e **React** para criar uma aplicação web interativa e visualmente atraente.",
   "main": "index.js",
   "keywords": [],
-  "author": "",
+  "author": "Julio Cesar Oliveira Bellini",
   "license": "ISC"
 }

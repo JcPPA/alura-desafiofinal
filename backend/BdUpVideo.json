@@ -55,6 +55,30 @@
       "category": "Cyber Security",
       "description": "Cybersecurity Skills everyone should have.",
       "thumbnailUrl": "https://img.youtube.com/vi/aRbKFCY4tjE/0.jpg"
+    },
+    {
+      "id": 419287,
+      "title": "A maneira CERTA de consumir APIs REST no React usando React Query",
+      "videoUrl": "https://youtu.be/ZI9uLACYAd0?si=KfADUAyEJ2t5UuRL",
+      "category": "Back-End",
+      "description": "Nesse vídeo eu vou te ensinar a elevar o nível das suas requisições assíncronas de APIs Rest no React usando a biblioteca TanStack Query, também chamada de React Query. O TanStack Query oferece uma forma declarativa de escrever consultas e mutações, além de oferecer macanismos de prefetch, sincronização e cache de forma simples e eficiente.",
+      "thumbnailUrl": "https://img.youtube.com/vi/ZI9uLACYAd0/0.jpg"
+    },
+    {
+      "id": 289105,
+      "title": "Entendendo Back-End para Iniciantes em Programação (Parte 1)",
+      "videoUrl": "https://youtu.be/Qjk-cSW-jk4?si=tDzTyxylh7LN3nAW",
+      "category": "Back-End",
+      "description": "Este é o 5o episódio da série \"Começando aos 40\". Você deve assistir os episódios anteriores da série pra entender onde estamos e recomendo assistir os 2 vídeos da série \"Sua Linguagem Não É Especial\". No episódio de hoje vou começar a introduzir os conceitos básicos para o que chamamos de \"back-end\", que na prática é a própria introdução à programação.",
+      "thumbnailUrl": "https://img.youtube.com/vi/Qjk-cSW-jk4/0.jpg"
+    },
+    {
+      "id": 559819,
+      "title": "Data Science: Introdução a Ciência de Dados",
+      "videoUrl": "https://youtu.be/F608hzn_ygo?si=pTRNV_FAhMiDwuWt",
+      "category": "Data Science",
+      "description": "Neste vídeo em específico vamos dar os primeiros passos com Data Science (Ciência de Dados). Este é um tutorial bastante prático onde utilizaremos o que aprendemos na aula passada sobre a linguagem de programação Python e iremos incluir a utilização de uma biblioteca chamada Pandas para manipulação de dados. Se você quer se tornar um Data Scientist (Cientista de Dados) este vídeo tutorial é um ótimo começo!",
+      "thumbnailUrl": "https://img.youtube.com/vi/F608hzn_ygo/0.jpg"
     }
   ]
 }
